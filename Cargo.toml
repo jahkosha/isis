@@ -1,0 +1,28 @@
+[package]
+name = "isis"
+version = "0.1.0"
+edition = "2021"
+license = "EUPL-1.2"
+license-file = "COPYING"
+
+[dependencies]
+anyhow                = "1.0.76"
+byteorder             = "1.5.0"
+hound                 = "3.5.1"
+lockfree              = "0.5.1"
+macroquad             = "0.4"
+pulseaudio            = "0.2.1"
+simple_moving_average = "0.1"
+soundtouch            = "0.4.2"
+spectrum-analyzer     = "1.6.0"
+xcb                   = "1.5.0"
+
+# openrgb
+openrgb = "~0.1.2"
+rgb = "~0.8.37"
+tokio = "~1.36.0"
+rand = "~0.8.5"
+
+[dev-dependencies]
+# openrgb
+tokio-test = "~0.4.3"

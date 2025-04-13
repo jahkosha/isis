@@ -1,0 +1,8 @@
+Close when pressing key
+Hide/Show with inactivity
+Get openrgb integration working
+Use FFT for procedural texture generation
+Replace chess.png with procedural texture
+Real-time web radio streaming mode
+Basic settings/configuration (audio interface, openrgb, time to show, radio url, ...)
+OBS integration (with Roots Roundbeat preset), see https://github.com/bennetthardwick/rust-obs-plugins/tree/master
